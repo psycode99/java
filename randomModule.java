@@ -1,6 +1,7 @@
 import java.util.Random;
 
 public class randomModule {
+    
     public static void main(String[] args) {
         Random random = new Random();
 
@@ -12,3 +13,4 @@ public class randomModule {
         System.out.println(x);
     }    
 }
+
